@@ -1,0 +1,16 @@
+com\app\ecom\dto\UserResponse.class
+com\app\ecom\model\User.class
+com\app\ecom\service\ProductService.class
+com\app\ecom\service\UserService.class
+com\app\ecom\model\Address.class
+com\app\ecom\dto\ProductRequest.class
+com\app\ecom\EcommerceApplication.class
+com\app\ecom\repository\ProductRepository.class
+com\app\ecom\controller\UserController.class
+com\app\ecom\repository\UserRepository.class
+com\app\ecom\model\Product.class
+com\app\ecom\model\UserRole.class
+com\app\ecom\dto\UserRequest.class
+com\app\ecom\dto\AddressDTO.class
+com\app\ecom\dto\ProductResponse.class
+com\app\ecom\controller\ProductController.class
